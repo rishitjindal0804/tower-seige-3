@@ -30,10 +30,10 @@ class Box {
       
    World.remove(world,this.body);
 push()
-this.Visibility= this.Visibility-5 
-tint(255,this.Visibility);
+this.visibility= this.visibility-5
+tint(255,this.visibility);
 pop()
-      
+
       
     }
   }
